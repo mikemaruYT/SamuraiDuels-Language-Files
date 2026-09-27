@@ -1,3 +1,4 @@
 {
-    "StartLog": "SamuraiDuels Started"
+    "StartLog": "SamuraiDuels Started",
+    "invalid_argument": "An invalid argument was passed."
 }

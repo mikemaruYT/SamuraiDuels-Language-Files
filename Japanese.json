@@ -1,3 +1,4 @@
 {
-    "StartLog": "SamuraiDuelsが起動しました"
+    "StartLog": "SamuraiDuelsが起動しました",
+    "invalid_argument": "無効な引数が渡されました"
 }
