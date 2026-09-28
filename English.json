@@ -1,4 +1,24 @@
 {
     "StartLog": "SamuraiDuels Started",
-    "invalid_argument": "An invalid argument was passed."
+    "invalid_argument": "An invalid argument was passed.",
+    "NotFoundLobby": "§c[Duels] Lobby not set.",
+    "StopLog": "SamuraiDuels Stopped",
+    "OnlyPlayers": "Only players can use this command.",
+    "RightClick" : "Right Click",
+    "LeftClick" : "Left Click",
+    "ChooseFirstBlock" : "Choose the first block",
+    "ChooseSecondBlock" : "Choose the second block",
+    "ChoosePlayer1sPosition" : "Choose Player 1's position",
+    "ChoosePlayer2sPosition" : "Choose Player 2's position",
+    "TypeArenaDisplayName" : "Type the arena display name into the chat.",
+    "TypeArenaID" : "Type the arena ID into the chat.",
+    "UsedArenaID" : "This arena ID is already in use.",
+    "TypeOtherArenaID" : "Type another arena ID into the chat.",
+    "Arena" : "Arena",
+    "Saved" : "saved.",
+    "Selected" : "selected.",
+    "You": "You",
+    "ReloadLang" : "Reloaded language.",
+    "AttachedGoldenHeadNBT" : "Attached Golden Head NBT.",
+    "HoldGoldenApple" : "Hold a golden apple in your hand."
 }
